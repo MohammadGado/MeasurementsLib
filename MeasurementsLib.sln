@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeasurementsLib", "MeasurementsLib\MeasurementsLib.csproj", "{0CE050B9-1B94-4B4C-ACCE-73910C3BE245}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeasurementsLibTests", "MeasurementsLibTests\MeasurementsLibTests.csproj", "{D80E5345-2CF1-4061-A944-F52840A20D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE050B9-1B94-4B4C-ACCE-73910C3BE245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE050B9-1B94-4B4C-ACCE-73910C3BE245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE050B9-1B94-4B4C-ACCE-73910C3BE245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE050B9-1B94-4B4C-ACCE-73910C3BE245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80E5345-2CF1-4061-A944-F52840A20D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80E5345-2CF1-4061-A944-F52840A20D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80E5345-2CF1-4061-A944-F52840A20D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80E5345-2CF1-4061-A944-F52840A20D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1DA664-CE64-40E2-A7B2-C81FD6AF4999}
+	EndGlobalSection
+EndGlobal
